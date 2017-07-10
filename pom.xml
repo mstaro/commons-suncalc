@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.weather</groupId>
     <artifactId>commons-suncalc</artifactId>
-    <version>1.1</version>
+    <version>1.1.1</version>
     <name>Commons: Suncalc</name>
     <description>Compute sun and moon phases</description>
     <url>http://commons.shredzone.org</url>
