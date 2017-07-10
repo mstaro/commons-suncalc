@@ -106,7 +106,7 @@ public class MoonCalculationsUtil {
 
     private static double TRUNC(double value) {
         double result = floor(abs(value));
-        if (value < 0.0) result = (-result);
+        result = result * signum(result);
         return (result);
     }
 }
